@@ -2,7 +2,7 @@
   "id": "/mhsu0020-nginx-mesosphere",
   "cpus": 1,
   "mem": 128,
-  "instances": 1,
+  "instances": 5,
   "container": {
     "docker": {
       "image": "mhsu0020vny/dcostest:latest",
